@@ -1,0 +1,9 @@
+h1{
+	text-align: center;
+	font-size: 70px;
+}
+.estilos-container{
+	display: flex;
+	justify-content: center;
+	gap: 50px;
+}

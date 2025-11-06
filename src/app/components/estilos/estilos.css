@@ -1,0 +1,28 @@
+.tarjeta{
+	background-color: #c9201a;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	padding: 20px;
+	width: 400px;
+	height: 600px;
+	margin: 20px auto;
+	font-size: 30px;
+	text-align: center;
+	transition: 0.3s;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.tarjeta:hover{
+	background-color: #d68d1f;
+	transition: 0.3s;
+}
+
+.tarjeta-img{
+	width: 100%;
+	height: auto;
+	border-radius: 10px;
+}
